@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=OddEven
+comment1.params=odd\ even
+comment1.target=OddEven(int,\ int)
+comment2.params=odd
+comment2.target=void\ setOdd(int)
+comment3.params=even
+comment3.target=void\ setEven(int)
+comment4.params=
+comment4.target=int\ getOdd()
+comment5.params=
+comment5.target=int\ getEven()
+comment6.params=
+comment6.target=java.lang.String\ oddEven()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

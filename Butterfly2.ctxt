@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Butterfly2
+comment1.params=year\ name
+comment1.target=Butterfly2(int,\ java.lang.String)
+comment2.params=args
+comment2.target=void\ Butterfly2(java.lang.String[])
+numComments=3

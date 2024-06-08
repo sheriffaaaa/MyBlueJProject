@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TheCozyCup
+comment1.params=coffeDrink\ pastry
+comment1.target=TheCozyCup(CoffeDrink[],\ Pastry[])
+comment2.params=coffeDrink
+comment2.target=void\ setCoffeDrink(CoffeDrink[])
+comment3.params=pastry
+comment3.target=void\ setPastry(Pastry[])
+comment4.params=
+comment4.target=CoffeDrink[]\ getCoffeDrink()
+comment5.params=
+comment5.target=Pastry[]\ getPastry()
+numComments=6

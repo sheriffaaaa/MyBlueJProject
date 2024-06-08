@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MasterProgramme
+comment1.params=MS\ TF\ NS
+comment1.target=MasterProgramme(java.lang.String,\ double,\ int)
+comment2.params=MS
+comment2.target=void\ setModeStudy(java.lang.String)
+comment3.params=TF
+comment3.target=void\ setTuitionFee(double)
+comment4.params=NS
+comment4.target=void\ setNumbSem(int)
+comment5.params=
+comment5.target=java.lang.String\ getModeStudy()
+comment6.params=
+comment6.target=double\ getTuitionFee()
+comment7.params=
+comment7.target=int\ getNumbSem()
+comment8.params=
+comment8.target=double\ calculateTotalFee()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
