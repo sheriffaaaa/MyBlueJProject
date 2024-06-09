@@ -1,0 +1,8 @@
+*.class
+*.ctxt
+/doc/
+/tmp/
+/bluej.pkg
+
+enter
+
