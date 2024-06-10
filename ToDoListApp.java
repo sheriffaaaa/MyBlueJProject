@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.InputMismatchException;
 
 public class ToDoListApp
 {
@@ -15,6 +16,7 @@ public class ToDoListApp
            System.out.println("4. Display Task");
            System.out.println("5. Exit");
            
+           try{
            int choice = scanner.nextInt();
            
            switch (choice)
@@ -44,6 +46,10 @@ public class ToDoListApp
                 default:
                     System.out.println("Invalid choice");
            }
+       } catch (InputMismatchException e){
+           System.out.println("Invalid input. Please enter a number: ");
+           scanner.next();
        }
+   }
    }
 }
